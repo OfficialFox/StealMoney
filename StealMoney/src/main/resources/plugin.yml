@@ -1,0 +1,4 @@
+name: StealMoney
+version: '${project.version}'
+main: com.foxdev.stealmoney.StealMoney
+api-version: '1.20'
